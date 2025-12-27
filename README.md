@@ -1,7 +1,5 @@
 # Map3DProject — 3D Terrain Reconstruction from SRTM (.hgt) + Voronoi Meshing (Java / LWJGL)
 
-Builds an interactive 3D terrain surface from SRTM elevation tiles (`.hgt`) and renders it with OpenGL via LWJGL.
-
 **Demo video:** <a href="https://drive.google.com/drive/folders/1pwEKQi-77Xq55mWVG9d3NSWon0SXiFLw?usp=sharing" target="_blank">here</a>.
 
 ---
