@@ -1,9 +1,10 @@
 # Map3DProject — 3D Terrain Reconstruction from SRTM (.hgt) + Voronoi Meshing (Java / LWJGL)
 
 This project was written in the fall of 2020
-**Demo video:** <a href="https://drive.google.com/drive/folders/1pwEKQi-77Xq55mWVG9d3NSWon0SXiFLw?usp=sharing" target="_blank">here</a>.
+
 
 ---
+**Demo video:** <a href="https://drive.google.com/drive/folders/1pwEKQi-77Xq55mWVG9d3NSWon0SXiFLw?usp=sharing" target="_blank">here</a>.
 
 ## What it does
 
